@@ -1,0 +1,1 @@
+My work for CS 360, Android Development. I plan on turning the application int oa full fledged working one as soon as I can. Planning on deploying to the Play Store. Showcases my ability to work with SQLite as well.
