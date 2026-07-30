@@ -29,6 +29,7 @@ The app is currently **in development**. The core database and UI structure are 
 -Deploying to the Google Playstore.
 
 ##Technologies Used:
+
 **Language** Java
 
 **Database:** SQLite
