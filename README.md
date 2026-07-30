@@ -10,24 +10,37 @@ The app is currently **in development**. The core database and UI structure are 
 
 ## Implemented Features
 -SQLite Database Setup using 'SQLiteOpenHelper'
+
 -Creating and Saving new events
+
 -Viewing a list of saved events
+
 -Basic UI with the date/time pickers
 
+
 ##Features Planned:
+
 -Edit and Delete already existing events.
+
 -Allowing a calendar view for event browsing.
+
 -Push Notifications for upcoming events.
+
 -Deploying to the Google Playstore.
 
 ##Technologies Used:
 **Language** Java
+
 **Database:** SQLite
+
 **Tools:** Android Studio,Gradle
 
-##How To Build:
+##How To Build
+
 1.)Clone the repository.
+
 2.)Open Project in Android Studio.
+
 3.)Run app on emulator or the physical device.
 
 ## Future Goals
