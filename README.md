@@ -30,7 +30,7 @@ The app is currently **in development**. The core database and UI structure are 
 
 ##Technologies Used:
 
-**Language** Java
+**Language:** Java
 
 **Database:** SQLite
 
